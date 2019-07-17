@@ -5,7 +5,6 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
-<<<<<<< HEAD
 }
 
 body {
@@ -51,11 +50,4 @@ body {
   background: black;
   opacity: 0.5;
   pointer-events: none;
-=======
-  align-content: center;
-}
-
-body {
-  background: lightyellow;
->>>>>>> d0660194e4e51e65a97a0f6441f8bf23fc4ed7b9
 }
